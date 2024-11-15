@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=AIMinerHub
+Comment= AIMH P2P Cryptocurrency
+Comment[fr]= AIMH, monnaie virtuelle cryptographique pair à pair
+Comment[tr]= AIMH, eşten eşe kriptografik sanal para birimi
+Exec=aiminerhub-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/pivx;
+Categories=Office;Finance;
+StartupWMClass=AIMinerHub-qt

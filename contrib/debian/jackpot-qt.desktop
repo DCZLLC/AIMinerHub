@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=AIMinerHub
+Comment=AIMinerHub P2P Cryptocurrency
+Comment[fr]=AIMinerHub, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=AIMinerHub, eşten eşe kriptografik sanal para birimi
+Exec=aiminerhub-qt %u
+Terminal=false
+Type=Application
+Icon=pivx128
+MimeType=x-scheme-handler/aiminerhub;
+Categories=Office;Finance;
+StartupWMClass=aiminerhub-qt
